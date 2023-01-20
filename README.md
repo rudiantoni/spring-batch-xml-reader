@@ -45,4 +45,4 @@
 
 Log image with working example:
 - **Linux**: [spring-batch-xml-reader](https://i.imgur.com/QPax8XZ.png)
-- **Windows**: [spring-batch-xml-reader]()
+- **Windows**: [spring-batch-xml-reader](https://i.imgur.com/V9lKh5q.png)
