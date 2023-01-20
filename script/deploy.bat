@@ -4,7 +4,7 @@ call :CHECK_IS_ADMIN IS_ADMIN
 
 if %IS_ADMIN%==true (
     rem Build application container image
-    rem call script/build_docker_image.bat
+    call script/build_docker_image.bat
 
     rem Stop/remove previous execution services (if any)
     call script/stop.bat
